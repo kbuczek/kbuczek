@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @kbuczek
-- 👀 I’m interested in ReactJS and Cross-platfrom Apps Development
+- 👀 I’m interested in making beautiful apps in ReactJS and React Native.
