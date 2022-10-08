@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @kbuczek
-- 👀 I’m interested in ReactJS and React Native.
+- 👀 I’m interested in ReactJS, .NET and React Native.
