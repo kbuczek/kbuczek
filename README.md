@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @kbuczek
-- 👀 I’m interested in ReactJS, .NET and React Native.
+- 👀 I’m interested in React, .NET, TypeScript, C#, CSS, Tailwind and React Native.
