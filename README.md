@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @kbuczek
-- 👀 I’m interested in React, Next.js, TypeScript, CSS, Tailwind and React Native.
+- 👋 Hi, I’m @kbuczek I love beautifly crafted UI's with smooth animations.
+- 👀 I work with React, Next.js, TypeScript, CSS, Tailwind.
+- 🎮 On the side I make games in Godot and I am trying to learn three.js and motion.
